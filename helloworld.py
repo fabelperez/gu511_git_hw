@@ -6,4 +6,4 @@ def hello_world():
     print('It is {}'.format(now))
 
 if __name__=="__main__":
-    helloworld.py
+    hello_world()
