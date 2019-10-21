@@ -1,5 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-dule: dspipeline.py
+"""
+module: dspipeline.py
 Author: zlamberty
 Created: 2018-10-19
 
