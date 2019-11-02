@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#ssert clientside.decrypt(clientside.encrypt('helloworld', key_alias)) == b'helloworld' !/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 """
